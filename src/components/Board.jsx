@@ -32,7 +32,7 @@ const Board = () => {
     fetchData();
   }, [settings, categories]);
   return (
-    <section id="testimonials">
+    <section id="questions">
       <div className="max-w-6xl px-5 mx-auto mt-16 text-center">
         <h2 className="text-4xl font-bold text-center">
           Can you guess the right answers?
